@@ -28,6 +28,8 @@
         "testFrameworks": [],
         "jhiPrefix": "jhi",
         "otherModules": [],
-        "enableTranslation": false
+        "enableTranslation": false,
+        "herokuAppName": "torgcrm-developer",
+        "herokuDeployType": "git"
     }
 }
