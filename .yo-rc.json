@@ -1,0 +1,33 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "by.dubininys.torgcrm"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "torgcrm",
+        "packageName": "by.dubininys.torgcrm",
+        "packageFolder": "by/dubininys/torgcrm",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "MjQ5YWY4YmEyYmIwNTdhN2JlYWFmNWYwYTUwMjYyNDQ1Yzc4ZDVlODg0NjdhMTc5MWJiMjA3NjBmZDEzZGJhM2Y5ZjBkM2FlMzJhYzMzZjg3ZWE4YjQ1OThkNDY1ZGM3ODcyMmU2ZTE5MTI3ZjI2NDBkNWJiODk4ZGQ5MTM2YjY=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
